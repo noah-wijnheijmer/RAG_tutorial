@@ -1,6 +1,6 @@
 # RAG-Enabled Chatbot tutorial
 
-This repository supports the tutorial **[How to Create Your Own RAG-Enabled Chatbot for Text Simplification Tasks]([https://medium.com/...](https://medium.com/@noah.wijnheijmer/how-to-create-your-own-rag-enabled-chatbot-for-text-simplification-tasks-in-any-language-a4a5bb20a215)**, where we build a **Retrieval-Augmented Generation (RAG)** chatbot that simplifies government texts while maintaining context and accuracy.
+This repository supports the tutorial **[How to Create Your Own RAG-Enabled Chatbot for Text Simplification Tasks](https://medium.com/@noah.wijnheijmer/how-to-create-your-own-rag-enabled-chatbot-for-text-simplification-tasks-in-any-language-a4a5bb20a215)**, where we build a **Retrieval-Augmented Generation (RAG)** chatbot that simplifies government texts while maintaining context and accuracy.
 
 ## 📌 Overview
 
